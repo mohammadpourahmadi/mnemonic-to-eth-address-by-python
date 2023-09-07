@@ -1,6 +1,9 @@
 # Python
+
 hello i am mohammad pourahmadi 
 ............................
+
+
 instagram : e_pourahmadi
 
 This project takes from a text file that has a large number of 12-digit memory words, or recovery wallet words,
