@@ -1,7 +1,6 @@
 # Python
 
 hello i am mohammad pourahmadi 
-............................
 
 
 instagram : e_pourahmadi
