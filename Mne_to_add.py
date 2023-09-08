@@ -11,8 +11,8 @@ def process_mnemonics(input_file, output_file):
             sk, pk = w.derive_account("eth", account=0)
             eth_address = get_eth_addr(pk)
             
-            output_text.write(f"Mnemonic: {mnemonic}\n")
-            output_text.write(f"Ethereum Address: {eth_address}\n\n")
+         #   output_text.write(f"Mnemonic: {mnemonic}\n")
+            output_text.write(f"{eth_address}\n")
 
 # Specify your input and output file paths
 input_file_path = 'input_mnemonics.txt'  # Change this to your input file path
